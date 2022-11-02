@@ -76,7 +76,6 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 
 ![ml2](https://user-images.githubusercontent.com/93427182/199434803-dc7d8ff3-68f9-49da-9d63-1c2ddcf2e2e6.png)
 
-![lm3](https://user-images.githubusercontent.com/93427182/199434830-8dacfa7b-8328-4413-954f-98712fc0702b.png)
 ![ml4](https://user-images.githubusercontent.com/93427182/199434857-4cbc6507-4b87-4111-b3bd-05a0c929a897.png)
 ![ml5](https://user-images.githubusercontent.com/93427182/199434877-2fc875cb-55ab-4eaf-9e5e-d2f5841d6886.png)
 
