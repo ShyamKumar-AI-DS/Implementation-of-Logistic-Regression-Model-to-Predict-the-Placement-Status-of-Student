@@ -72,30 +72,17 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 
 ## Output:
-## Original data(first five columns):
-![](head.png)
-## Data after dropping unwanted columns(first five):
-![](headdrpped.png)
-## Checking the presence of null values:
-![](null.png)
-## Checking the presence of duplicated values:
-![](duplicate.png)
-## Data after Encoding:
-![](le.png)
-## X Data:
-![](x.png)
-## Y Data:
-![](y.png)
-## Predicted Values:
-![](ypred.png)
-## Accuracy Score:
-![](accuracy.png)
-## Confusion Matrix:
-![](confusion.png)
-## Classification Report:
-![](report.png)
-## Predicting output from Regression Model:
-![](predict.png)
+![ml1](https://user-images.githubusercontent.com/93427182/199434788-76452b1c-18fa-4ee0-a600-8448711a919a.png)
+
+![ml2](https://user-images.githubusercontent.com/93427182/199434803-dc7d8ff3-68f9-49da-9d63-1c2ddcf2e2e6.png)
+
+![lm3](https://user-images.githubusercontent.com/93427182/199434830-8dacfa7b-8328-4413-954f-98712fc0702b.png)
+![ml4](https://user-images.githubusercontent.com/93427182/199434857-4cbc6507-4b87-4111-b3bd-05a0c929a897.png)
+![ml5](https://user-images.githubusercontent.com/93427182/199434877-2fc875cb-55ab-4eaf-9e5e-d2f5841d6886.png)
+
+![ml6](https://user-images.githubusercontent.com/93427182/199434916-2d240ead-17c6-4304-bafb-2793d2596875.png)
+![ml7](https://user-images.githubusercontent.com/93427182/199434940-d732d432-4a90-4ef4-9be0-054c9d87b42c.png)
+![ml8](https://user-images.githubusercontent.com/93427182/199434965-c392c41d-ef22-40a5-9661-18e60e85c164.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
